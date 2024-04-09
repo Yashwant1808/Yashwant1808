@@ -1,7 +1,8 @@
+![logo](https://github.com/Yashwant1808/Yashwant1808/blob/main/5675674.webp)
 <h1 align="center">Hi 👋, I'm Yashwant Shinde</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/Yashwant1808/Yashwant1808/assets/154579865/26b851c3-62e7-418b-91b3-2e3e8e8a62cc)">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJwbmNzdnplbjI2MmV0cHNkMnI0NXlsMzVjZzFnaXkxdGJ3NGZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwant1808&label=Profile%20views&color=0e75b6&style=flat" alt="yashwant1808" /> </p>
 
